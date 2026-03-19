@@ -1,6 +1,5 @@
 # 💫 About Me:
-💻 Interested in full stack web development and building practical applications.<br>🌱 Currently learning and exploring LLMs, Generative AI, and AI tools.<br>🧠 Have a basic understanding of machine learning concepts.<br>👩‍💻 Comfortable programming in Python, Java, C++, and C.<br>⚙️ Interested in automation, software development, and learning new technologies.<br>🚀 Always trying to improve problem-solving and development skills through projects and experimentation.
-
+💻 Passionate about building intelligent and scalable applications across full-stack and AI domains.<br>🧠 Strong foundation in machine learning, deep learning, and signal processing with hands-on project experience.<br>👨‍💻 Proficient in Python, C++, Java, and experienced with frameworks like TensorFlow, PyTorch, and React.<br>🔬 Exploring Generative AI, LLMs, and advanced model optimization techniques.<br>⚙️ Interested in system design, backend development, and integrating AI into practical applications.<br>🚀 Always building, experimenting, and pushing boundaries through projects and continuous learning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shravwan-r-28094531a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shravfifa@gmail.com) 
